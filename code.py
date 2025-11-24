@@ -106,5 +106,3 @@ if 'near_expiry' in alerts:
 
 if not alerts:
     print("✅ No immediate expiry concerns found.")
-
-# You will need to install Tkinter if you want a GUI, but the core logic works without it.
